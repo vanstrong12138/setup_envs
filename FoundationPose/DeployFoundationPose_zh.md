@@ -1,7 +1,7 @@
 # FoundationPose 环境配置教程（适用于 NVIDIA 50 系列显卡）
 [![Ubuntu 24.04](https://img.shields.io/badge/Ubuntu-24.04-blue.svg?logo=ubuntu)](https://ubuntu.com/)
 
-|[中文]()|[English]()|
+|[中文](https://github.com/vanstrong12138/setup_envs/blob/main/FoundationPose/DeployFoundationPose_zh.md)|[English](https://github.com/vanstrong12138/setup_envs/blob/main/FoundationPose/DeployFoundationPose.md)|
 
 此配置文档针对 NVIDIA 50 系列 GPU，包含一些特殊修改
 

@@ -1,7 +1,7 @@
 # FoundationPose environment setup tutorialfor Nvidia 50series GPUs
 [![Ubuntu 24.04](https://img.shields.io/badge/Ubuntu-24.04-blue.svg?logo=ubuntu)](https://ubuntu.com/)
 
-|[中文]()|[English]()|
+|[中文](https://github.com/vanstrong12138/setup_envs/blob/main/FoundationPose/DeployFoundationPose_zh.md)|[English](https://github.com/vanstrong12138/setup_envs/blob/main/FoundationPose/DeployFoundationPose.md)|
 
 **This setup document is for Nvidia 50series GPU, some spacial tips**
 

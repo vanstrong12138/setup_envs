@@ -2,7 +2,7 @@
 
 [![Ubuntu 24.04](https://img.shields.io/badge/Ubuntu-24.04-blue.svg?logo=ubuntu)](https://ubuntu.com/)
 
-|[中文]()|[English]()|
+|[中文](https://github.com/vanstrong12138/setup_envs/blob/main/BundleSDF/DepolyBundleSDF_zh.md)|[English](https://github.com/vanstrong12138/setup_envs/blob/main/BundleSDF/DepolyBundleSDF.md)|
 
 [BundleSDF](https://github.com/NVlabs/BundleSDF)是一个用于实时6D未知物体姿态估计与跟踪的模型。
 
